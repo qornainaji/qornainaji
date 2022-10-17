@@ -1,4 +1,6 @@
-### Hi there 👋
+# CoreNine9 👋
+
+**`Data Phraser (Data Scientist/WebDeveloper/Photographer)`**
 
 <!--
 **qornainaji/qornainaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
