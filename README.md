@@ -1,4 +1,4 @@
-# 🌃 Core Nine9 9️⃣
+# 🌃 CoreNine9 9️⃣
 
 **`Data Phraser (Data Scientist/WebDeveloper/Photographer)`**
 
