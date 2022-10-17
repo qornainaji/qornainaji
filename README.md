@@ -17,7 +17,7 @@ I'm a Data-Scientist, UI/UX Designer and Front End Developer that developing my 
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/qornian"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="" alt="Discord"><img width="32px" title="AinaChaan#8446" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a alt="Discord"><img width="32px" title="AinaChaan#8446" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/qornain-aji-6a14201b7/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/qornainaji/qornainaji/blob/main/Linkedin.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
