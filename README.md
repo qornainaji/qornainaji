@@ -2,7 +2,7 @@
 
 **`Data Phraser (Data Scientist/WebDeveloper/Photographer)`**
 
-I'm a Data-Scientist and Front End Developer that developing my own dreams of digital world one step at a time. All project's coding are developed from **zero**, starts from planning, designing and all the way to evaluate the solution to make the best solution that solve real world problem. One of my biggest achievement so far is making a competion website called "[Technocorner2022](https://www.technocorner.id/)". Check it out!
+I'm a Data-Scientist, UI/UX Designer and Front End Developer that developing my own dreams of digital world one step at a time. All project's coding are developed from **zero**, starts from planning, designing and all the way to evaluate the solution to make the best solution that solve real world problem. One of my biggest achievement so far is making a competion website called "[Technocorner2022](https://www.technocorner.id/)". Check it out!
 
 <!--Typographi animation -->
 <p align="center">
