@@ -6,7 +6,7 @@ I'm a Data-Scientist, UI/UX Designer and Front End Developer that developing my 
 
 <!--Typographi animation -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=16D3FF&background=FF19BC00&width=435&lines=4+years+of+UI+UX+Designer+Experience;Future+Data+Scientist;One+year+Front-End+Developer;Good+at+sports+and+basketball+player;Cat+lover+%3A%223"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=16D3FF&background=FF19BC00&width=435&lines=4+years+of+UI+UX+Designer+Experience;Future+Data+Scientist;One+year+of+Front-End+Developer;Good+at+sports+and+basketball+player+%F0%9F%8F%80;Cat+lover+%3A3+%F0%9F%98%BA"></a>
 </p>
 
 <!-- Social media -->
