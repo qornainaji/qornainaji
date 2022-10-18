@@ -61,6 +61,11 @@ I'm a Data-Scientist, UI/UX Designer and Front End Developer that developing my 
     </a>
 <div/>
 
+## 📊 Github stats
+  💻 Profile Stats
+    <br/>
+    ![CoreNine9's GitHub stats](https://github-readme-stats.vercel.app/api?username=qornainaji&show_icons=true&theme=radical)
+
 
 <!--
 **qornainaji/qornainaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
