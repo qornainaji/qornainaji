@@ -21,7 +21,7 @@ I'm a Data-Scientist, UI/UX Designer and Front End Developer that developing my 
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/qornain-aji-6a14201b7/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/qornainaji/qornainaji/blob/main/Linkedin.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://id.pinterest.com/qornainaji/"><img width="32px" alt="Pinterest" title="Pinterest" src="https://github.com/qornainaji/qornainaji/blob/main/Linkedin.svg"/></a>
+    <a href="https://id.pinterest.com/qornainaji/"><img width="32px" alt="Pinterest" title="Pinterest" src="https://github.com/qornainaji/qornainaji/blob/main/pinterest-svgrepo-compink.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <!--<a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;-->
