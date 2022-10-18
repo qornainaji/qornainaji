@@ -1,6 +1,6 @@
 # 🌃 CoreNine9 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-**`Data Phraser (Data Scientist/WebDeveloper/Photographer)`**
+**`Data Phraser (Data Scientist/WebDeveloper/UI-UX)`**
 
 I'm a Data-Scientist, UI/UX Designer and Front End Developer that developing my own dreams of digital world one step at a time. All project's coding are developed from **zero**, starts from planning, designing and all the way to evaluate the solution to make the best solution that solve real world problem. One of my biggest achievement so far is making a competion website called "[Technocorner2022](https://www.technocorner.id/)". Check it out!
 
