@@ -34,6 +34,7 @@ I'm a Data-Scientist, UI/UX Designer and Front End Developer that developing my 
 
 <img align="left" title="Vscode" alt="Vscode" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />          
 <img align="left" title="Figma" alt="Figma" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+<img align="left" title="Next.Js" alt="Next.Js" width="30px" style="padding-right:10px" src="https://github.com/qornainaji/qornainaji/blob/main/nextjs-original 1.svg" />
 <img align="left" title="React" alt="React" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />          
 <img align="left" title="GitHub" alt="GitHub" width="30px" style="padding-right:10px"  src="https://github.com/qornainaji/qornainaji/blob/main/github-original.svg" />       
 <img align="left" title="Python" alt="Python" width="30px" style="padding-right:l0px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
