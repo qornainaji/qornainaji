@@ -51,7 +51,7 @@ I'm a Data-Scientist, UI/UX Designer and Front End Developer that developing my 
 </div>
 
 
-## 🔥 Streak stats
+### 🔥 Streak stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=qornainaji&theme=graywhite&ring=05BCDD&sideLabels=DD2074&fire=00DDA3&sideNums=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&dates=DDDDDD&background=00060C)](https://git.io/streak-stats)
 <!--
