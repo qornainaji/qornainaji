@@ -59,10 +59,11 @@ I'm a Data-Scientist, UI/UX Designer and Front End Developer that developing my 
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com?user=qornainaji&theme=graywhite&ring=05BCDD&sideLabels=FF62C0"/>
   </a>
 <br/>
-    
+<br/>
+ 
+---
     
 ## 📊 Github stats
-   <br/>
   
 ### 💻 Profile Stats
   
