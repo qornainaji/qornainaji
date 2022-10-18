@@ -32,10 +32,15 @@ I'm a Data-Scientist, UI/UX Designer and Front End Developer that developing my 
 
 ### 🧰 Languages and Tools
 
-
+<img align="left" alt="Vscode" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />          
 <img align="left" alt="React" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />          
+<i align="left" alt="GitHub" width="30px" style="padding-right:10px" class="devicon-github-original"></i>
 <img align="left" alt="Java" width="30px" style="padding-right:l0px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
-
+<img align="left" alt="TS" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="JS" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="C#" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+                             
 
 <!--
 **qornainaji/qornainaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
