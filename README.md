@@ -58,6 +58,7 @@ I'm a Data-Scientist, UI/UX Designer and Front End Developer that developing my 
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com?user=qornainaji&theme=graywhite&ring=05BCDD&sideLabels=FF62C0"/>
   </a>
+<p/>
 <br/>
 <br/>
  
@@ -66,12 +67,21 @@ I'm a Data-Scientist, UI/UX Designer and Front End Developer that developing my 
 ## 📊 Github stats
   
 ### 💻 Profile Stats
-  
-![QornainAji's GitHub stats](https://github-readme-stats.vercel.app/api?username=qornainaji&show_icons=true&theme=radical)
+<p align="center">
+  <a>
+    <img src="https://github-readme-stats.vercel.app/api?username=qornainaji&show_icons=true&theme=radical"/>
+  </a>
+<p/>
+<!--[QornainAji's GitHub stats](https://github-readme-stats.vercel.app/api?username=qornainaji&show_icons=true&theme=radical)-->
 
 ### 📈 Profile Graph
-  
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=qornainaji&theme=noctis-minimus)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <a>
+    <img src="https://activity-graph.herokuapp.com/graph?username=qornainaji&theme=noctis-minimus"/>
+  </a>
+<p/>
+
+<!--[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=qornainaji&theme=noctis-minimus)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 
 <!--
 **qornainaji/qornainaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
