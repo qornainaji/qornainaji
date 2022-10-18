@@ -50,9 +50,9 @@ I'm a Data-Scientist, UI/UX Designer and Front End Developer that developing my 
 <img align="left" title="C#" alt="C#" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 
 #
-## 🔥 Streak stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=qornainaji&theme=graywhite&ring=05BCDD&sideLabels=DD2074&fire=00DDA3&sideNums=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&dates=DDDDDD)](https://git.io/streak-stats)
 
+## 🔥 Streak stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=qornainaji&theme=graywhite&ring=05BCDD&sideLabels=DD2074&fire=00DDA3&sideNums=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&dates=DDDDDD&background=00060C)](https://git.io/streak-stats)
 <!--
 **qornainaji/qornainaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
