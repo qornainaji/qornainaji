@@ -33,10 +33,12 @@ I'm a Data-Scientist, UI/UX Designer and Front End Developer that developing my 
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Vscode" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />          
+<img align="left" alt="Figma" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />          
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px"  src="https://github.com/qornainaji/qornainaji/blob/main/github-original.svg" />       
 <img align="left" alt="Python" width="30px" style="padding-right:l0px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
 <img align="left" alt="Anaconda" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
+<img align="left" alt="TensorFlow" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
 <img align="left" alt="TS" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="JS" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
