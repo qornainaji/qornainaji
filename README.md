@@ -69,6 +69,9 @@ I'm a Data-Scientist, UI/UX Designer and Front End Developer that developing my 
   
 ![QornainAji's GitHub stats](https://github-readme-stats.vercel.app/api?username=qornainaji&show_icons=true&theme=radical)
 
+### 📈 Profile Graph
+  
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=qornainaji&theme=noctis-minimus)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 **qornainaji/qornainaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
