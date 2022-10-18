@@ -33,7 +33,7 @@ I'm a Data-Scientist, UI/UX Designer and Front End Developer that developing my 
 ---
 
 ### 🧰 Languages and Tools
-
+<p>
 <img align="left" title="Vscode" alt="Vscode" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />          
 <img align="left" title="Figma" alt="Figma" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img align="left" title="Next.Js" alt="Next.Js" width="30px" style="padding-right:10px" src="https://github.com/qornainaji/qornainaji/blob/main/nextjs-original 1.svg" />
@@ -48,6 +48,7 @@ I'm a Data-Scientist, UI/UX Designer and Front End Developer that developing my 
 <img align="left" title="JavaScript" alt="JS" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" title="C++" alt="C++" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" title="C#" alt="C#" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+</p>
 
 ---
 ## 🔥 Streak stats
