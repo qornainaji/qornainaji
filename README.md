@@ -34,23 +34,23 @@ I'm a Data-Scientist, UI/UX Designer and Front End Developer that developing my 
 
 ### 🧰 Languages and Tools
 <p>
-<img align="left" title="Vscode" alt="Vscode" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />          
-<img align="left" title="Figma" alt="Figma" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-<img align="left" title="Next.Js" alt="Next.Js" width="30px" style="padding-right:10px" src="https://github.com/qornainaji/qornainaji/blob/main/nextjs-original 1.svg" />
-<img align="left" title="React" alt="React" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />          
-<img align="left" title="FireBase" alt="FireBase" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
-<img align="left" title="GitHub" alt="GitHub" width="30px" style="padding-right:10px"  src="https://github.com/qornainaji/qornainaji/blob/main/github-original.svg" />       
-<img align="left" title="Python" alt="Python" width="30px" style="padding-right:l0px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
-<img align="left" title="Anaconda" alt="Anaconda" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
-<img align="left" title="TensorFlow" alt="TensorFlow" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-<img align="left" title="PyTorch" alt="PyTorch" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
-<img align="left" title="Tyoescript" alt="TS" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" title="JavaScript" alt="JS" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" title="C++" alt="C++" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" title="C#" alt="C#" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img align="left" title="Vscode" alt="Vscode" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />          
+  <img align="left" title="Figma" alt="Figma" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align="left" title="Next.Js" alt="Next.Js" width="30px" style="padding-right:10px" src="https://github.com/qornainaji/qornainaji/blob/main/nextjs-original 1.svg" />
+  <img align="left" title="React" alt="React" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />          
+  <img align="left" title="FireBase" alt="FireBase" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
+  <img align="left" title="GitHub" alt="GitHub" width="30px" style="padding-right:10px"  src="https://github.com/qornainaji/qornainaji/blob/main/github-original.svg" />       
+  <img align="left" title="Python" alt="Python" width="30px" style="padding-right:l0px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
+  <img align="left" title="Anaconda" alt="Anaconda" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
+  <img align="left" title="TensorFlow" alt="TensorFlow" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+  <img align="left" title="PyTorch" alt="PyTorch" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
+  <img align="left" title="Tyoescript" alt="TS" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+  <img align="left" title="JavaScript" alt="JS" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img align="left" title="C++" alt="C++" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img align="left" title="C#" alt="C#" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 </p>
 
----
+
 ## 🔥 Streak stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=qornainaji&theme=graywhite&ring=05BCDD&sideLabels=DD2074&fire=00DDA3&sideNums=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&dates=DDDDDD&background=00060C)](https://git.io/streak-stats)
