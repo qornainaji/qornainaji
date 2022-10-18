@@ -31,6 +31,8 @@ I'm a Data-Scientist, UI/UX Designer and Front End Developer that developing my 
 ---
 
 ### 🧰 Languages and Tools
+<img align="left" alt="Java" width="30px" style="padding-right:løpx;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
+
 
 <!--
 **qornainaji/qornainaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
