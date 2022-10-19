@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <a><img src="https://github.com/qornainaji/qornainaji/blob/main/62861525995bf.png"></a>
+  <a><img src="https://github.com/qornainaji/qornainaji/blob/main/Banner.png"></a>
 </p>
 
 # 🌃 CoreNine9 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
