@@ -7,7 +7,7 @@
 
 **`Data Phraser (Data Scientist/WebDeveloper/UI-UX)`**
 
-I'm a Data-Scientist, UI/UX Designer and Front End Developer that developing my own dreams of digital world one step at a time. All project's coding are developed from **zero**, starts from planning, designing and all the way to evaluate the solution to make the best solution that solve real world problem. One of my biggest achievement so far is making a competion website called "[Technocorner2022](https://www.technocorner.id/)". Check it out!
+Reliable, hardworking, and skilled Gadjah Mada University student with two years of experience in data science and Front End website development. Expert in data cleaning and data preparation for higher accuracy in prediction techniques. Enjoy sharing knowledge by becoming a tutor for lecture assistance and data science training. Provide well-organized communicative leadership and project management for several IT product development. 
 
 <!--Typographi animation -->
 <p align="center">
