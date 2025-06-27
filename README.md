@@ -7,12 +7,12 @@
 
 **`Data Phraser (Data Scientist/WebDeveloper/UI-UX)`**
 
-Reliable, hardworking, and skilled Gadjah Mada University student with two years of experience in data science and Front End website development. Expert in data cleaning and data preparation for higher accuracy in prediction techniques. Enjoy sharing knowledge by becoming a tutor for lecture assistance and data science training. Provide well-organized communicative leadership and project management for several IT product development. 
+Looking on what the meaning of life.
 
 <!--Typographi animation -->
-<p align="center">
+<!--<p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=16D3FF&background=FF19BC00&width=435&lines=4+years+of+UI+UX+Experience%F0%9F%8E%A8;Future+Data+Scientist+%F0%9F%93%8A;One+year+of+Front-End+Developer+%F0%9F%8C%90;Good+at+sports+and+basketball+player%F0%9F%8F%80;Cat+lover+%3A3+%F0%9F%98%BA"></a>
-</p>
+</p> -->
 
 <!-- Social media -->
 <p align="center">
