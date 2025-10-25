@@ -5,9 +5,9 @@
 
 # 🌃 CoreNine9 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-**`Have no meaning of life. No willingness to live. Glad I'm still alive :D`**
 
-Looking on what the meaning of life.
+
+
 
 <!--Typographi animation -->
 <!--<p align="center">
